@@ -1,0 +1,258 @@
+{
+  "file": "Screenshot from 2025-07-22 17-06-45.png",
+  "session_id": "20250723_184430",
+  "timestamp": "2025-07-23T18:46:14.818527",
+  "text": "Confirm you're you We sent an email with a verification code to altpai325@gmail.com To continue, confirm your identity using the code below. Attend an AWS Verification code enter code Summit near: y Verify and continue Explore the latest AWS in and connect with industr Resend code (42) Didn't get the code? Register to attend> - Codes can take up to 5min to arrive. Check your spam folder. Still having problems signing in?",
+  "hierarchy": [
+    {
+      "name": "Confirm you're you",
+      "role": "Unknown",
+      "group": 0,
+      "bbox": [
+        0.2060546875,
+        0.13275704850157727,
+        0.3828125,
+        0.1652439249802839
+      ],
+      "y_center": 0.14900048674093058,
+      "relationships": []
+    },
+    {
+      "name": "We sent an email with a verification code to",
+      "role": "email verification code",
+      "group": 0,
+      "bbox": [
+        0.2041015625,
+        0.23021767793769715,
+        0.509765625,
+        0.25281724418375395
+      ],
+      "y_center": 0.24151746106072555,
+      "relationships": []
+    },
+    {
+      "name": "altpai325@gmail.com",
+      "role": "Unknown",
+      "group": 0,
+      "bbox": [
+        0.2060546875,
+        0.2655295001971609,
+        0.365234375,
+        0.2895415393335962
+      ],
+      "y_center": 0.27753551976537855,
+      "relationships": []
+    },
+    {
+      "name": "To continue, confirm your identity using the",
+      "role": "identity",
+      "group": 0,
+      "bbox": [
+        0.203125,
+        0.32485336159305994,
+        0.5107421875,
+        0.3516903465102523
+      ],
+      "y_center": 0.33827185405165616,
+      "relationships": []
+    },
+    {
+      "name": "code below.",
+      "role": "Unknown",
+      "group": 0,
+      "bbox": [
+        0.205078125,
+        0.36016518385252366,
+        0.2880859375,
+        0.38135227720820186
+      ],
+      "y_center": 0.3707587305303628,
+      "relationships": []
+    },
+    {
+      "name": "Attend an AWS",
+      "role": "Unknown",
+      "group": 0,
+      "bbox": [
+        0.62890625,
+        0.35027787361987384,
+        0.9931640625,
+        0.4081892621253943
+      ],
+      "y_center": 0.37923356787263407,
+      "relationships": []
+    },
+    {
+      "name": "Verification code",
+      "role": "Verification code",
+      "group": 0,
+      "bbox": [
+        0.2041015625,
+        0.41948904524842273,
+        0.3232421875,
+        0.44067613860410093
+      ],
+      "y_center": 0.43008259192626186,
+      "relationships": []
+    },
+    {
+      "name": "enter code",
+      "role": "code",
+      "group": 0,
+      "bbox": [
+        0.2138671875,
+        0.47033806930205047,
+        0.2880859375,
+        0.4915251626577287
+      ],
+      "y_center": 0.4809316159798896,
+      "relationships": []
+    },
+    {
+      "name": "Summit",
+      "role": "Summit",
+      "group": 0,
+      "bbox": [
+        0.630859375,
+        0.4364387199329653,
+        0.81640625,
+        0.4901126897673502
+      ],
+      "y_center": 0.46327570485015773,
+      "relationships": []
+    },
+    {
+      "name": "near: y",
+      "role": "Unknown",
+      "group": 0,
+      "bbox": [
+        0.8359375,
+        0.4463260301656151,
+        1.0,
+        0.5014124728903786
+      ],
+      "y_center": 0.47386925152799686,
+      "relationships": []
+    },
+    {
+      "name": "Verify and continue",
+      "role": "Unknown",
+      "group": 0,
+      "bbox": [
+        0.294921875,
+        0.5423741867113565,
+        0.4453125,
+        0.5692111716285488
+      ],
+      "y_center": 0.5557926791699527,
+      "relationships": []
+    },
+    {
+      "name": "Explore the latest AWS in",
+      "role": "latest AWS",
+      "group": 0,
+      "bbox": [
+        0.6298828125,
+        0.5324868764787066,
+        1.0,
+        0.5790984818611987
+      ],
+      "y_center": 0.5557926791699527,
+      "relationships": []
+    },
+    {
+      "name": "and connect with industr",
+      "role": "industr",
+      "group": 0,
+      "bbox": [
+        0.626953125,
+        0.5903982649842271,
+        0.994140625,
+        0.6299475059148265
+      ],
+      "y_center": 0.6101728854495267,
+      "relationships": []
+    },
+    {
+      "name": "Resend code (42)",
+      "role": "Resend code",
+      "group": 0,
+      "bbox": [
+        0.306640625,
+        0.6186477227917981,
+        0.43359375,
+        0.6454847077089905
+      ],
+      "y_center": 0.6320662152503943,
+      "relationships": []
+    },
+    {
+      "name": "Didn't get the code?",
+      "role": "code",
+      "group": 0,
+      "bbox": [
+        0.205078125,
+        0.7245831895701893,
+        0.345703125,
+        0.7514201744873816
+      ],
+      "y_center": 0.7380016820287855,
+      "relationships": []
+    },
+    {
+      "name": "Register to attend> -",
+      "role": "Unknown",
+      "group": 0,
+      "bbox": [
+        0.6279296875,
+        0.7175208251182965,
+        0.7861328125,
+        0.7457702829258674
+      ],
+      "y_center": 0.731645554022082,
+      "relationships": []
+    },
+    {
+      "name": "Codes can take up to 5min to arrive.",
+      "role": "Codes 5min",
+      "group": 0,
+      "bbox": [
+        0.2265625,
+        0.77260726784306,
+        0.4775390625,
+        0.7980317798698738
+      ],
+      "y_center": 0.785319523856467,
+      "relationships": []
+    },
+    {
+      "name": "Check your spam folder.",
+      "role": "spam folder",
+      "group": 0,
+      "bbox": [
+        0.2265625,
+        0.8135689816640379,
+        0.39453125,
+        0.8389934936908517
+      ],
+      "y_center": 0.8262812376774449,
+      "relationships": []
+    },
+    {
+      "name": "Still having problems signing in?",
+      "role": "problems",
+      "group": 0,
+      "bbox": [
+        0.2265625,
+        0.8545306954850158,
+        0.4541015625,
+        0.8799552075118297
+      ],
+      "y_center": 0.8672429514984228,
+      "relationships": []
+    }
+  ],
+  "lines": [
+    {
+      "start": [
+        
