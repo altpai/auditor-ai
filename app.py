@@ -34,7 +34,7 @@ if "session_id" not in st.session_state or st.session_state.session_id == "":
 
 # Display login form if not logged in
 if not st.session_state.logged_in:
-    st.title("🔐 AI Auditor Login test")
+    st.title("🔐 AI Auditor Login")
     with st.form("login_form"):
         st.subheader("Please enter your credentials")
         username = st.text_input("Username")
@@ -71,3 +71,4 @@ else:
     st.title("🕵️‍♂️📊 AI Auditor - Preliminary Information Pack Input")
 
     form_result = show_pip_input_form()
+
